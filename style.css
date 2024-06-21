@@ -38,6 +38,7 @@ main{
     border: none;
     border-radius: 10px;
     color: white;
+   
 }
 
 #yes{
@@ -57,5 +58,3 @@ button:hover{
     gap: 30px;
     margin-top: 10px;
 }
-
-
